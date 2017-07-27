@@ -1,0 +1,6 @@
+Gemfile.lock
+_site/
+_posts/
+node_modules
+category/
+*~

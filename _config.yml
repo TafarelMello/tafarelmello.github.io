@@ -1,0 +1,51 @@
+# perfil
+title: Tafarel Mello
+about: Developer
+email: tafarel.mello@gmail.com
+description: My personal blog
+author: Tafarel Mello
+
+# urls
+baseurl: 
+url:
+
+#social
+twitter_username: tafarelmello
+twitter:
+github_username:  tafarelmello
+github: https://github.com/tafarelmello
+
+# imgs sblog
+logo: /assets/img/logo.png
+avatar: /assets/img/avatar.png
+icon: /favicon.icon
+
+# config template
+allowsearch: true
+enableTags: true
+tagarray: []
+paginate: 10
+per_page: 10
+paginate_path: "/page:num/"
+permalink: /:title
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+#gems
+gems: [jekyll-paginate, jekyll-gist]
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - src
