@@ -2,5 +2,4 @@ Gemfile.lock
 _site/
 _post_teste/
 node_modules
-category/
 *~
