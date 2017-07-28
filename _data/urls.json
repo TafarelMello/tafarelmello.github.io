@@ -19,10 +19,5 @@
     "text": "Courses",
     "url": "/courses",
     "icon": "fa-graduation-cap"
-  },
-  {
-    "text": "Category",
-    "url": "/category/",
-    "icon": "fa-book"
   }
 ]
